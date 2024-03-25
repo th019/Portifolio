@@ -67,6 +67,7 @@ a:hover{
     display: flex;
     align-items: center;
 
+
 }
 
 .eu {
@@ -88,7 +89,8 @@ a:hover{
 .textosobre {
     color: #fff;
     margin-left: 20%;
-    font-size: 28px;
+    width: 1000px;
+    font-size: 40px;
     font-weight: 200;
 }
 
